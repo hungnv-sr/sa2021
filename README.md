@@ -9,6 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Put your name here*
-* Student ID: *Put your ID here*
-
+* Student Name: Nguyen Vu Hung
+* Student ID: M-ICT1901003
