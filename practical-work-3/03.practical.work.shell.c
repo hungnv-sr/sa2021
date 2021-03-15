@@ -30,6 +30,11 @@ int main(int argc, char const *argv[]) {
 				input[i] = '\0';
 			}
 		}
+		if (strcmp(input,"quit") == 0) {
+            printf("User quit.");
+            break;
+        }
+		
 		args[argc++] = prevArg;
 
 		// fork() + exec() combo
